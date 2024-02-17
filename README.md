@@ -1,2 +1,2 @@
 # snake
-Project made on "Snake workshop", PyLadiesCZ organisation
+Python project made on "Snake workshop", PyLadiesCZ organisation
